@@ -1,3 +1,6 @@
-# templates
+A collection of sort programs in various languages.
 
-https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04 
+(1) Binary search in C++, 
+(2) Fast Doubling in Python,
+(3) Mergesort in Java, JavaScript, Python, Ruby, Bash
+
